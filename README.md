@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello,I’m Tannu.
+I’m Tannu.
 
 ✨I am a visionary, energetic, hard working individual who likes to take the challenging tasks. 🥇I am very responsible towards my duties and try to fulfill them on top priority. 💡I'm data analyst  enthusiast with a strong passion for learning and staying updated on new technologies. ⌚I am actively seeking full-time opportunities in the Data Analyst  domain, with a specific interest in a role as a Power BI Developer & Data Analyst.
 
