@@ -13,4 +13,5 @@ Power BI 📉
 MySQL 🔎
 MS Excel🎯
 Python 🐍
+
 Looking forward to learn more about my skills and gain more knowledge.
